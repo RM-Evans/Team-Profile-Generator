@@ -9,7 +9,6 @@
   "scripts": {
     "test": "jest",
     "start": "node index.js"
-    
   },
   "repository": {
     "type": "git",

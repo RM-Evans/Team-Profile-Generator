@@ -1,0 +1,53 @@
+/* header {
+    
+
+} */
+
+header h1 {
+    font-size: x-large;
+    text-align: center;
+}
+
+
+.carryMyCard {
+
+    
+}
+
+.employeeCard {
+    display: flex;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+ .employeeCard:nth-child(odd){
+    background-color: rgb(94, 94, 94);
+    color: ivory;
+ }
+
+.cardContent {
+    padding: 10px 10px;
+
+    
+}
+
+.name {
+    font-size: larger;
+}
+
+.id {
+    font-size: large;
+}
+
+.role {
+    font-size: medium;
+}
+
+.email {
+    font-style: italic;
+}
+
+.email:hover {
+    color: rgb(99, 0, 49);
+}
